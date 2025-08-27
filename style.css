@@ -105,12 +105,12 @@ header nav a{
 }
 .carousel .list .item .introduce .title{
     font-size: 2em;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 1em;
 }
 .carousel .list .item .introduce .topic{
     font-size: 4em;
-    font-weight: 500;
+    font-weight: 800;
 }
 .carousel .list .item .introduce .des{
     font-size: small;
